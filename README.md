@@ -1,91 +1,39 @@
 # Privacy Policy
 
-## 📋 Overview
-**Last Updated:** March 8, 2026
+Last Updated: March 2026
 
-This Privacy Policy explains how our Facebook analytics and posting application ("the App") collects, uses, and protects your data.
+## Overview
+This Privacy Policy explains how our application collects, uses, and protects
+Facebook account information when you use our services.
 
----
+## Data Collection
+Our application may collect the following information from Facebook:
 
-## 📊 Data Collection
+- Facebook account basic information
+- Page data required for posting
+- Analytics and performance metrics
 
-### Information We Collect
-- **Facebook Account Information** - We collect your Facebook account data solely to enable:
-  - Posting functionality
-  - Analytics and performance metrics
-  - User activity tracking (with your consent)
+## Purpose of Data Use
+We use the collected data only to provide the following features:
 
-### How We Collect Data
-- Direct authentication via Facebook OAuth
-- App usage and interaction logging
-- Analytics tracking through Facebook Pixel/SDK
+- Posting content to connected Facebook pages
+- Viewing analytics and performance insights
+- Improving system performance
 
----
+## Data Sharing
+We do **not sell, trade, or share personal data with third parties**.
 
-## 🔒 Data Protection & Privacy
+All data is used strictly for the operation of this application.
 
-### What We DON'T Do
-- ❌ We **DO NOT** sell your personal data to third parties
-- ❌ We **DO NOT** share your data without explicit consent
-- ❌ We **DO NOT** store sensitive information insecurely
-- ❌ We **DO NOT** use data for purposes beyond those stated here
+## Data Storage
+We do not permanently store personal Facebook user data outside
+of the Facebook platform.
 
-### Data Security Measures
-- Encrypted data transmission (HTTPS/TLS)
-- Secure API authentication
-- Regular security audits
-- Compliance with Facebook Platform Policies
+## User Rights
+Users may request removal of their data at any time.
 
----
+## Contact
+If you have any questions about this policy, please contact:
 
-## 🗑️ Data Retention
-
-- **Active User Data** - Retained while your account is active
-- **Inactive Accounts** - Deleted after 12 months of inactivity
-- **Analytics Data** - Retained for up to 2 years for reporting purposes
-- **Backup Data** - Retained per our disaster recovery policy (max 90 days)
-
----
-
-## 👤 User Rights
-
-You have the right to:
-- ✅ Access your personal data
-- ✅ Request data deletion
-- ✅ Opt-out of analytics tracking
-- ✅ Download your data in standard format
-- ✅ Request correction of inaccurate information
-
-**To exercise these rights, contact us at:** nexora.control@gmail.com
-
----
-
-## 📋 Compliance
-
-- **GDPR Compliant** - GDPR rights are honored for EU users
-- **CCPA Compliant** - California privacy rights are respected
-- **Facebook Platform Policy** - Full compliance with Meta's Developer Policies
-
----
-
-## 🔄 Policy Updates
-
-We may update this Privacy Policy from time to time. Changes will be posted here with an updated "Last Updated" date. Continued use of the App constitutes acceptance of updated terms.
-
----
-
-## 📧 Contact Information
-
-**Email:** nexora.control@gmail.com  
-**Support Hours:** Monday - Friday, 9 AM - 6 PM UTC  
-**Response Time:** Within 48 business hours
-
----
-
-## ⚖️ Legal
-
-By using this App, you agree to the terms of this Privacy Policy. If you disagree with any part, please discontinue use of the App.
-
----
-
-**© 2026 NEXORA. All rights reserved.**
+Email: nexora.ops@gmail.com
+Email: nexora.control@email.com
