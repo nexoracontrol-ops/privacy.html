@@ -1,8 +1,8 @@
 export default function PrivacyPolicyPage() {
   return (
-    <main className="min-h-screen bg-muted/30">
+    <main className="min-h-screen bg-background transition-colors duration-200">
       <div className="mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8">
-        <article className="rounded-lg bg-card p-8 shadow-sm">
+        <article className="rounded-lg border border-border bg-card p-8 shadow-sm transition-colors duration-200">
           <h1 className="border-b-2 border-primary pb-4 text-3xl font-bold text-foreground">
             Privacy Policy
           </h1>
