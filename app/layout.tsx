@@ -7,8 +7,8 @@ import { ThemeToggle } from "@/components/theme-toggle"
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" })
 
 export const metadata: Metadata = {
-  title: "Privacy Policy",
-  description: "Privacy Policy of our website explaining how we handle your personal information",
+  title: "Next.js Documentation",
+  description: "Beginner-friendly explanations of Next.js configuration options and features",
 }
 
 export default function RootLayout({
